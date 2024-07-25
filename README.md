@@ -1,1 +1,1 @@
-![Alternative text](https://github.com/LALIBEKE/AI--for-Parking-Occupancy-Detection/blob/main/image%20(1).png?raw=truehttps://github.com/LALIBEKE/AI--for-Parking-Occupancy-Detection/blob/main/image%20(1).png?raw=true)
+![Alternative text](https://drive.google.com/uc?export=view&id=1Nng-o-UHm2vPenmralCB9YydjtStA8SW)

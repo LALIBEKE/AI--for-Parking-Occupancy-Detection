@@ -1,0 +1,1 @@
+![Alternative text](https://github.com/LALIBEKE/AI--for-Parking-Occupancy-Detection/blob/main/image%20(1).png?raw=truehttps://github.com/LALIBEKE/AI--for-Parking-Occupancy-Detection/blob/main/image%20(1).png?raw=true)
